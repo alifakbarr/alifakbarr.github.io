@@ -1,0 +1,14 @@
+/* #7619EB first */
+/* #e019eb second*/
+/* #1931eb thrid*/
+.navbar{
+  background-color: #7619EB;
+}
+
+.navbar .nav-link img{
+  width: 25px;
+}
+
+.home:hover{
+  
+}

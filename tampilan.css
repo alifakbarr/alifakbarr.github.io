@@ -1,0 +1,19 @@
+/* #7619EB first */
+/* #e019eb second*/
+/* #1931eb thrid*/
+.navbar{
+  background-color:#7619EB;
+}
+
+.navbar .navbar-nav a{
+  color: white;
+  text-decoration: none;
+}
+.navbar .navbar-nav a:hover{
+  color: #7619EB;
+  background-color: white;
+  transition: 0.5s;
+}
+
+
+
